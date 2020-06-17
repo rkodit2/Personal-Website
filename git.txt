@@ -1,6 +1,6 @@
 git init
 
 
-1. add changes: git add -a
-2. commit changes: git commit -c "Initial Commite"
+1. add changes: git add -A
+2. commit changes: git commit -m "Initial Commite"
 3. push changes to repo: git push -u origin master
